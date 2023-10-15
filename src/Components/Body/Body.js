@@ -1,4 +1,4 @@
-import logo from '../Assets/11zon_cropped.png';
+import logo from '../../Assets/11zon_cropped.png';
 
 function Body() {
     return (
