@@ -84,6 +84,15 @@
   margin-top: 50px;
 }
 
+.Projects p {
+  margin: 0px 70px 40px 70px;
+}
+
+.project {
+  margin: 0px 70px 40px 70px;
+  text-align: left;
+}
+
 footer {
   /* background-color: #282c34; */
   color: black;

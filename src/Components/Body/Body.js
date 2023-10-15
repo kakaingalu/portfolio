@@ -38,7 +38,7 @@ function Body() {
             started.</p>
 
             <h4>Happy Coding</h4>
-            <h5>Kakai Ngalu🚀</h5>
+            <p>Kakai Ngalu🚀</p>
         </div>
     )
 }
