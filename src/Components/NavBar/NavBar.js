@@ -9,13 +9,13 @@ function NavBar() {
        <img src={logo} className="App-logo-Nav" alt="logo" />
       </Link>
       <h1>
-        <Link to="/" >About</Link>
+        <Link to="/" className='link' >About</Link>
       </h1>
       <h1>
-      <Link to="/projects" >Projects</Link>
+      <Link to="/projects" className='link'>Projects</Link>
       </h1>
       <h1>
-      <Link to="/contacts" >Contacts</Link>
+      <Link to="/contacts" className='link' >Contacts</Link>
       </h1>
     </div>
   );

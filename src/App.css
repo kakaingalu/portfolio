@@ -53,6 +53,11 @@
   height: 60px;
 }
 
+.link {
+  text-decoration: none;
+  color: black;
+}
+
 .body p {
   margin: 0px 70px 40px 70px;
 }
