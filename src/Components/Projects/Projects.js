@@ -16,48 +16,74 @@ function Projects() {
             solutions:</p>
             {/*Project 1*/}
             <div className='project'>
-                <div>1. Project Name 1</div>
+                <div>1. All-in-one-planner</div>
                 <ul key="p1">
-                    <li><strong>Description:</strong> Brief description 
-                    of the project and its goals.</li> 
-                    <li><strong>Technologies:</strong> List of 
-                    technologies used (e.g., HTML, CSS, React).</li>
-                    <li><strong>Role:</strong> Your specific role and 
-                    contributions to the project.</li>
-                    <li><strong>Link:</strong> If applicable, provide a
-                    link to the live project or its code repository.
+                    <li><strong>Description:</strong> a simple daily 
+                    journal that can take a list of things to do.</li> 
+                    <li><strong>Technologies:</strong> Python, 
+                    tkinter.</li>
+                    <li><strong>Role:</strong> FullStack.</li>
+                    <li><strong>Link:</strong>  
+                    <a href="https://github.com/kakaingalu/All-in-one-planner/tree/main"
+                    target="_blank" rel="noreferrer">
+                    Github Soruce Code
+                    </a>
                     </li>
                 </ul>
             </div>
 
             {/*Project 2*/}
             <div className='project'>
-                <div>2. Project Name 2</div>
+                <div>2. Mikutano</div>
                 <ul key="p2">
-                    <li><strong>Description:</strong> Brief description 
-                    of the project and its goals.</li> 
-                    <li><strong>Technologies:</strong> List of 
-                    technologies used (e.g., HTML, CSS, React).</li>
-                    <li><strong>Role:</strong> Your specific role and 
-                    contributions to the project.</li>
-                    <li><strong>Link:</strong> If applicable, provide a
-                    link to the live project or its code repository.
+                    <li><strong>Description:</strong> a chatting 
+                    application designed to connect software engineering 
+                    students to professionals.</li> 
+                    <li><strong>Technologies:</strong> React, nextJs, 
+                    NodeJs and ChatEngine.</li>
+                    <li><strong>Role:</strong> FrontEnd.</li>
+                    <li><strong>Link:</strong> <a 
+                    href="https://github.com/kakaingalu/mikutano"
+                    target="_blank" rel="noreferrer">
+                    Github Soruce Code
+                    </a>
                     </li>
                 </ul>
             </div>
 
             {/*Project 3*/}
             <div className='project'>
-                <div>3. Project Name 3</div>
+                <div>3. YoutubeDownloader</div>
                 <ul key="p3">
-                    <li><strong>Description:</strong> Brief description 
-                    of the project and its goals.</li> 
-                    <li><strong>Technologies:</strong> List of 
-                    technologies used (e.g., HTML, CSS, React).</li>
-                    <li><strong>Role:</strong> Your specific role and 
-                    contributions to the project.</li>
-                    <li><strong>Link:</strong> If applicable, provide a
-                    link to the live project or its code repository.
+                    <li><strong>Description:</strong> Downloads 
+                    youtube videos.</li> 
+                    <li><strong>Technologies:</strong> Python, 
+                    yt-dlp.</li>
+                    <li><strong>Role:</strong> BackEnd.</li>
+                    <li><strong>Link:</strong> <a 
+                    href="https://github.com/kakaingalu/YoutubeDownloader"
+                    target="_blank" rel="noreferrer">
+                    Github Soruce Code
+                    </a>
+                    </li>
+                </ul>
+            </div>
+
+            {/*Project 4*/}
+            <div className='project'>
+                <div>4. Bekry-Ecommerce</div>
+                <ul key="p4">
+                    <li><strong>Description:</strong> A Bakery 
+                    Ecommerce website.</li> 
+                    <li><strong>Technologies:</strong> React, NodeJs, 
+                    Axios, fetch, json-server, json-server-auth, 
+                    jwt-decode.</li>
+                    <li><strong>Role:</strong> FrontEnd.</li>
+                    <li><strong>Link:</strong> <a 
+                    href="https://github.com/kakaingalu/Bekry-Ecommerce"
+                    target="_blank" rel="noreferrer">
+                    Github Soruce Code
+                    </a>
                     </li>
                 </ul>
             </div>
