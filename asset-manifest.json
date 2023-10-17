@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kakaingalu/portfolio/static/css/main.6bf874b7.css",
+    "main.js": "/kakaingalu/portfolio/static/js/main.2188ec4f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/kakaingalu/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/X_Logo.png": "/kakaingalu/portfolio/static/media/X_Logo.5d83fe20a1fcd119ef27.png",
+    "static/media/Linkedin_Logo.png": "/kakaingalu/portfolio/static/media/Linkedin_Logo.9682255142357f6121e2.png",
+    "static/media/Kaks_Logo.png": "/kakaingalu/portfolio/static/media/Kaks_Logo.032b00fd530b9a2c309e.png",
+    "static/media/Github_Logo.svg": "/kakaingalu/portfolio/static/media/Github_Logo.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/kakaingalu/portfolio/index.html",
+    "main.6bf874b7.css.map": "/kakaingalu/portfolio/static/css/main.6bf874b7.css.map",
+    "main.2188ec4f.js.map": "/kakaingalu/portfolio/static/js/main.2188ec4f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/kakaingalu/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf874b7.css",
+    "static/js/main.2188ec4f.js"
+  ]
+}
