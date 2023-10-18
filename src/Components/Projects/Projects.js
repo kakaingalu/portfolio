@@ -26,7 +26,7 @@ function Projects() {
                     <li><strong>Link:</strong>  
                     <a href="https://github.com/kakaingalu/All-in-one-planner/tree/main"
                     target="_blank" rel="noreferrer">
-                    Github Soruce Code
+                    Github Source Code
                     </a>
                     </li>
                 </ul>
@@ -45,7 +45,7 @@ function Projects() {
                     <li><strong>Link:</strong> <a 
                     href="https://github.com/kakaingalu/mikutano"
                     target="_blank" rel="noreferrer">
-                    Github Soruce Code
+                    Github Source Code
                     </a>
                     </li>
                 </ul>
@@ -63,7 +63,7 @@ function Projects() {
                     <li><strong>Link:</strong> <a 
                     href="https://github.com/kakaingalu/YoutubeDownloader"
                     target="_blank" rel="noreferrer">
-                    Github Soruce Code
+                    Github Source Code
                     </a>
                     </li>
                 </ul>
@@ -82,7 +82,7 @@ function Projects() {
                     <li><strong>Link:</strong> <a 
                     href="https://github.com/kakaingalu/Bekry-Ecommerce"
                     target="_blank" rel="noreferrer">
-                    Github Soruce Code
+                    Github Source Code
                     </a>
                     </li>
                 </ul>
