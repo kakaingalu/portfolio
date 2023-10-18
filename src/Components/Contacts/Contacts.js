@@ -36,7 +36,7 @@ function Contacts() {
                     {/**LinkedIn Logo */}
                     <div>
                     <a href="https://www.linkedin.com/in/joseph-kakai-041a96140"
-                    target='_blank'>
+                    target='_blank' rel="noreferrer" >
                         <img 
                         src={LinkedIn} 
                         alt='LinkedIn Logo' 
@@ -48,7 +48,7 @@ function Contacts() {
                     {/**Github Logo */}
                     <div>
                     <a href="https://github.com/kakaingalu"
-                    target='_blank'>
+                    target='_blank' rel="noreferrer" >
                         <img 
                         src={Github} 
                         alt='Github Logo' 
@@ -60,7 +60,7 @@ function Contacts() {
                     {/**X Logo */}
                     <div>
                     <a href="https://twitter.com/kakaingalu"
-                    target='_blank'>
+                    target='_blank' rel="noreferrer" >
                         <img 
                         src={X} 
                         alt='X Logo' 
