@@ -22,6 +22,11 @@ function NavBar() {
           {showMenu && (
             <ul className="NavMenu">
               <li>
+                <Link to="/" className="link">
+                  About
+                </Link>
+              </li>
+              <li>
                 <Link to="/projects" className="link">
                   Projects
                 </Link>
@@ -37,6 +42,9 @@ function NavBar() {
       ) : (
         <ul className="NavBar">
           <h1>
+            <Link to="/" className="link NavBar">
+              About
+            </Link>
           </h1>
           <h1>
             <Link to="/projects" className="link NavBar">
