@@ -9,7 +9,6 @@ function About() {
             <NavBar />
             <hr />
             <Body />
-            <hr />
             <Footer />
         </div>
 

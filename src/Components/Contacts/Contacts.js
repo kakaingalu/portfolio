@@ -75,7 +75,6 @@ function Contacts() {
                     <p>Best regards,</p>
                     <p>Kakai 🚀</p>
                 </div>
-                <hr />
             <Footer />
         </div>
 

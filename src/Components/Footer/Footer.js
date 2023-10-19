@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 function Footer() {
     return (
         <footer>
+            <hr />
             <div>
                 <Link to="/" >About</Link>
                 <Link to="/projects" >Projects</Link>

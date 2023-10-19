@@ -93,7 +93,6 @@ function Projects() {
             don't hesitate to reach out</p>
 
             <p>Let's turn ideas into reality, Kakai 🚀</p>
-            <hr />
             <Footer />
         </div>
 
