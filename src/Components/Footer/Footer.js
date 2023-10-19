@@ -6,7 +6,7 @@ function Footer() {
         <footer>
             <hr />
             <div>
-                <Link to="/" >About</Link>
+                <Link to="/" >Home</Link>
                 <Link to="/projects" >Projects</Link>
                 <Link to="/contacts" >Contacts</Link>
             </div>
