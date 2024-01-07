@@ -1,0 +1,80 @@
+.fullscreen-menu {
+    position: fixed ;
+    top: 0;
+    left: 0;
+    width: 99vw;
+    height: 100vh;
+    background-image: url("../../Assets/ultrawide-space-moon-earth-wallpaper-preview.jpg");
+    /* background: rgba(0, 0, 0, 0.9); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(2px);
+    border-radius: 10px;
+    color: white;
+    transition: transform 0.3s ease-out;
+    z-index: 10;
+   }
+   
+   .fullscreen-menu.open {
+    transform: translateY(0);
+   }
+   
+   .fullscreen-menu button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+   }
+
+   .color-white {
+    color: white;
+  }
+
+  .fullscreenmenu {
+    display: flex;
+    flex-direction: column;
+    /* background-color: #282c34; */
+    color: black;
+    padding: 0 20px;
+    height: 15px;
+    float : left;
+    margin-top: 20rem;
+    margin-left: 20px;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+   }
+  
+  .dropdown-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+   }
+
+   .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 100%;
+    text-align: left;
+   }
+
+   .dropdown-content Link {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+   }
+   

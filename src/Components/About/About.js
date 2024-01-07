@@ -3,7 +3,7 @@ import NavBar from '../NavBar/NavBar';
 import Body from '../Body/Body';
 import Footer from '../Footer/Footer';
 
-function About() {
+function About() {       
     return (
         <div className='About'>
             <NavBar />
