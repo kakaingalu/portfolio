@@ -7,7 +7,6 @@ function About() {
     return (
         <div className='About'>
             <NavBar />
-            <hr />
             <Body />
             <Footer />
         </div>
