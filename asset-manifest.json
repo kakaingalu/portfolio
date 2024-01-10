@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7385a564.css",
-    "main.js": "/portfolio/static/js/main.4ae99177.js",
+    "main.css": "/portfolio/static/css/main.9ef2edbf.css",
+    "main.js": "/portfolio/static/js/main.4dda62e7.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ameer-basheer-Xrx3WWyrwes-unsplash.jpg": "/portfolio/static/media/ameer-basheer-Xrx3WWyrwes-unsplash.0e8d5b053e4e0d90c748.jpg",
     "static/media/20230912_213445 (2).jpg": "/portfolio/static/media/20230912_213445 (2).76af8a76c773b4a95e04.jpg",
-    "static/media/lawris.png": "/portfolio/static/media/lawris.3865ca3004b32f33e702.png",
     "static/media/Bekry.png": "/portfolio/static/media/Bekry.e9e9567cb417b3cdbffd.png",
     "static/media/Twitter-X-White-Logo-PNG.png": "/portfolio/static/media/Twitter-X-White-Logo-PNG.d3ba47f085be8e460cd8.png",
     "static/media/Linkedin_Logo.png": "/portfolio/static/media/Linkedin_Logo.9682255142357f6121e2.png",
@@ -15,12 +14,12 @@
     "static/media/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.png": "/portfolio/static/media/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.987334e9f782cc505f25.png",
     "static/media/ultrawide-space-moon-earth-wallpaper-preview.jpg": "/portfolio/static/media/ultrawide-space-moon-earth-wallpaper-preview.031a2f0512b2c7640296.jpg",
     "index.html": "/portfolio/index.html",
-    "main.7385a564.css.map": "/portfolio/static/css/main.7385a564.css.map",
-    "main.4ae99177.js.map": "/portfolio/static/js/main.4ae99177.js.map",
+    "main.9ef2edbf.css.map": "/portfolio/static/css/main.9ef2edbf.css.map",
+    "main.4dda62e7.js.map": "/portfolio/static/js/main.4dda62e7.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7385a564.css",
-    "static/js/main.4ae99177.js"
+    "static/css/main.9ef2edbf.css",
+    "static/js/main.4dda62e7.js"
   ]
 }
