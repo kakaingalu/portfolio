@@ -176,10 +176,20 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
-  margin: auto 0;
+  justify-content: center; 
+  align-items: center; 
+  width:  400px;
+  height:  400px;
+  overflow: hidden; 
+  border-radius:  50%; 
 }
+
+.section__pic-container img {
+  width:  100%; 
+  height: auto; 
+  object-fit: cover; 
+}
+
 
 .section__text {
   align-self: center;
