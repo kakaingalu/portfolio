@@ -7,8 +7,8 @@ Hello, I'm Joseph Kakai Ngalu, a Frontend Developer.
 You can download my CV [here](./assets/Joseph%20Kakai%20Ngalu%20CV.pdf).
 
 ### Contact Info
-- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/kakai-ngalu-041a96140/))
-- [Github]([link-to-github](https://github.com/kakaingalu))
+- [LinkedIn](https://www.linkedin.com/in/kakai-ngalu-041a96140/)
+- [Github](https://github.com/kakaingalu)
 - Email: josephngalu96@gmail.com
 
 ## Get To Know More
