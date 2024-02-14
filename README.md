@@ -9,7 +9,7 @@ You can download my CV [here](./assets/Joseph%20Kakai%20Ngalu%20CV.pdf).
 ### Contact Info
 - [LinkedIn](https://www.linkedin.com/in/kakai-ngalu-041a96140/)
 - [Github](https://github.com/kakaingalu)
-- Email: josephngalu96@gmail.com
+- Email: [josephngalu96@gmail.com](mailto:josephngalu96@gmail.com)
 
 ## Get To Know More
 
