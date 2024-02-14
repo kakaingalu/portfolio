@@ -1,5 +1,5 @@
 # Joseph Kakai Ngalu - Frontend Developer
-  <img src="./assets/profile-pic2.jpg" alt="Joseph Kakai Ngalu profile picture" style="width: 150px; height: 150px;">
+  <img src="./assets/profile-pic.png" alt="Joseph Kakai Ngalu profile picture" style="width: 150px; height: 150px;">
 Hello, I'm Joseph Kakai Ngalu, a Frontend Developer.
 
 
