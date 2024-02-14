@@ -1,18 +1,22 @@
 # Joseph Kakai Ngalu - Frontend Developer
-
+<img src="./assets/profile-pic.jpg" alt="Joseph Kakai Ngalu profile picture" style="border-radius: 50%;">
 Hello, I'm Joseph Kakai Ngalu, a Frontend Developer.
+
 
 ### Download CV
 You can download my CV [here](./assets/Joseph%20Kakai%20Ngalu%20CV.pdf).
 
 ### Contact Info
-- [LinkedIn](link-to-linkedin)
-- [Github](link-to-github)
+- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/kakai-ngalu-041a96140/))
+- [Github]([link-to-github](https://github.com/kakaingalu))
 - Email: josephngalu96@gmail.com
 
 ## Get To Know More
 
 ### About Me
+
+<img src="./assets/about-pic.png" alt="Kochela Icon" style="border-radius: 50%;">
+
 I believe in the power of tech to transform ideas into reality. Through frontend development, I breathe life into designs, making them intuitive and engaging. My purpose? To create delightful user experiences that leave a mark. Whether you are a fellow coder, a potential client, or just someone curious about the world of frontend, you’re in the right place. Dive into my projects, explore the art of coding, and let’s embark on this tech adventure together.
 
 ### Experience
@@ -33,30 +37,30 @@ I believe in the power of tech to transform ideas into reality. Through frontend
 
 ### Browse My Recent Projects
 1. **Project One**
-   - [Github](link-to-project1-github)
-   - [Live Demo](link-to-project1-demo)
+   - [Github](https://github.com/kakaingalu/Bekry-Ecommerce)
+   - [Live Demo](https://github.com/kakaingalu/Bekry-Ecommerce/blob/main/README.md)
 
 2. **Project Two**
-   - [Github](link-to-project2-github)
-   - [Live Demo](link-to-project2-demo)
+   - [Github](https://github.com/kakaingalu/All-in-one-planner)
+   - [Live Demo](https://github.com/kakaingalu/All-in-one-planner/blob/main/README.md)
 
 3. **Project Three**
-   - [Github](link-to-project3-github)
-   - [Live Demo](link-to-project3-demo)
+   - [Github](https://github.com/Laban254/KuizDoc)
+   - [Live Demo](https://github.com/Laban254/KuizDoc/blob/main/README.md)
 
 4. **Project Four**
-   - [Github](link-to-project4-github)
-   - [Live Demo](link-to-project4-demo)
+   - [Github](https://github.com/kakaingalu/YoutubeDownloader)
+   - [Live Demo](https://github.com/kakaingalu/YoutubeDownloader/blob/main/README.md)
 
 5. **Project Five**
-   - [Github](link-to-project5-github)
-   - [Live Demo](link-to-project5-demo)
+   - [Github](https://github.com/kakaingalu/mikutano)
+   - [Live Demo](https://github.com/kakaingalu/mikutano/blob/main/README.md)
 
 ### Get in Touch
 
 #### Contact Me
-- **Email:** josephngalu96@gmail.com
-- **LinkedIn:** [LinkedIn Profile](link-to-linkedin)
+- **Email:** [josephngalu96@gmail.com](mailto:josephngalu96@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kakai-ngalu-041a96140/)
 
 ---
 
