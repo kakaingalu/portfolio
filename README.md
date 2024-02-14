@@ -1,5 +1,5 @@
 # Joseph Kakai Ngalu - Frontend Developer
-<img src="./assets/profile-pic.jpg" alt="Joseph Kakai Ngalu profile picture" style="border-radius: 50%;">
+![Joseph Kakai Ngalu profile picture](./assets/profile-pic.jpg){: .rounded }
 Hello, I'm Joseph Kakai Ngalu, a Frontend Developer.
 
 
@@ -15,7 +15,7 @@ You can download my CV [here](./assets/Joseph%20Kakai%20Ngalu%20CV.pdf).
 
 ### About Me
 
-<img src="./assets/about-pic.png" alt="Kochela Icon" style="border-radius: 50%;">
+![Kochela Icon](./assets/about-pic.png){: .rounded }
 
 I believe in the power of tech to transform ideas into reality. Through frontend development, I breathe life into designs, making them intuitive and engaging. My purpose? To create delightful user experiences that leave a mark. Whether you are a fellow coder, a potential client, or just someone curious about the world of frontend, you’re in the right place. Dive into my projects, explore the art of coding, and let’s embark on this tech adventure together.
 
