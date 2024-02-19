@@ -445,3 +445,18 @@ footer {
 footer p {
   text-align: center;
 }
+
+@media screen and (max-width:  600px) {
+  .section__pic-container {
+      width:  46vw;
+      height:  46vw;
+      justify-content: center;
+  }
+
+  .section__pic-container img {
+    width:  50%; 
+    height: 100%; 
+    object-fit: cover; 
+    border-radius: 50%;
+  }
+}
